@@ -3,5 +3,7 @@ public class User {
         System.out.println("versiyon 3");
         System.out.println("versiyon 3 devamı");
         System.out.println("versiyon 4");
+
+        //a kişisi kodlarını yazdı
     }
 }
